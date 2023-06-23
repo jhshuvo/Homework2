@@ -1,0 +1,35 @@
+table,th,td{
+    border: 1px solid black;
+}
+
+section{
+    background-color: blue;
+  
+    text-align: center;
+}
+.box1{
+    height: 400px;
+    width: 500px;
+    background: #ffee03;
+    text-align: center;
+}
+.box2{
+    height: 400px;
+    width: 500px;
+    background: #97003a;
+    text-align: center;
+    float: right;
+}
+.box3{
+    height: 400px;
+    width: 500px;
+    background: #ffee03;
+    
+}
+.box4{
+    height: 40px;
+    width: 50px;
+    background: #97003a;
+   
+    float: right;
+}
